@@ -1,0 +1,38 @@
+.base {
+    background-color: #2d51ac;
+}
+
+.baseBox {
+
+    background-color: #ffffff;
+    width: 350px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
+.login{
+    color: #2d51ac;
+    margin-left: 36%;
+    padding-top: 1px;
+
+    font-family:"Lucida Sans Typewriter";
+
+}
+.e-mail{
+      margin-left: 85px;
+    margin-top: 10px;
+
+
+}
+.password{
+    margin-left: 85px;
+    margin-top: 15px;
+
+}
+.accept{
+    width: 173px;
+    margin-top: 15px;
+    margin-left: 85px;
+    background-color: #2d51ac;
+}
