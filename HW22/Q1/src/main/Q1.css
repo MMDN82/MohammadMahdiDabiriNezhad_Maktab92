@@ -1,0 +1,81 @@
+@media only Screen and (max-width: 576px) {
+    .container {
+    overflow: hidden;
+     display: flex;
+        flex-direction: column;
+        background-color: #f1f1f1;
+
+    }
+}
+
+@media only Screen and (min-width: 576px) {
+    .tabletTitle{
+        display: flex;
+        flex-direction: row;
+    }
+    .tabletColor1{
+        display: flex;
+        flex-direction: row;
+    }
+    #color1{
+        width: 50%;
+    }
+    #color2{
+        width: 50%;
+    }
+    #color3{
+        width: 50%;
+    }
+    #color4{
+        width: 50%;
+    }
+    #title1{
+        margin-right: 10px;
+    }
+    #title2{
+        margin-left: 10px;
+    } #color1{
+        margin-right: 10px;
+    }
+    #color2{
+        margin-left: 10px;
+    } #color3{
+        margin-right: 10px;
+    }
+    #color4{
+        margin-left: 10px;
+    }
+
+}
+@media only Screen and (min-width: 768px) {
+    .tvTitle{
+        display: flex;
+        flex-direction: row;
+    }
+    #title3{
+        margin-left: 15px;
+        margin-top: 24px;
+    }
+}
+
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: Verdana, sans-serif;
+}
+
+.title {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-family: Verdana, sans-serif;
+}
+
+div {
+    padding: 5px 3px;
+    margin-top: 10px;
+}

@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    color: white;
+    font-family: Verdana, sans-serif;
+}
+
+.title {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-family: Verdana, sans-serif;
+}
+
+div {
+    padding: 5px 3px;
+    margin-top: 10px;
+}
